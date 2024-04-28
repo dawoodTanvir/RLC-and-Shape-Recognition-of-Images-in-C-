@@ -1,0 +1,6 @@
+User chose to run Q6.
+500 pgm files loaded in a hash table.
+User send file name in the function to check if it exits in the hash table.
+File Found
+Q6 ends.
+-----------------------------------------------------------------------------------------------------------------------------------
